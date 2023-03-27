@@ -14,12 +14,12 @@ export default {
     },
   },
   Composer: {
-    send: '发送',
+    send: '전송',
   },
   SendConfirm: {
     title: '发送图片',
-    send: '发送',
-    cancel: '取消',
+    send: '전송',
+    cancel: '취소',
   },
   RateActions: {
     up: '赞同',
@@ -32,6 +32,6 @@ export default {
     release2cancel: '松开手指，取消发送',
   },
   Search: {
-    search: '搜索',
+    search: '검색',
   },
 };
